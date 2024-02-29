@@ -12,7 +12,7 @@ Currently, I'm exploring the intricate patterns of information as a Data Science
 
 ## 💡 Projects
 
-- **[Tehran-House-Value-Estimator]**: A project withb divar scrapped data of divvar.ir. Tools used: [python].
+- **[Tehran-House-Value-Estimator]**: A regression project with scrapped data of divar.ir. Tools used: [python].
 
 ## 🛠️ Skills
 
