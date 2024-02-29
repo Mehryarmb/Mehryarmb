@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a former Aerospace Engineer turned Data Scientist. My academic journey began with a Bachelor's degree in Aerospace Engineering, where I dedicated five years to designing and analyzing components engineered to defy gravity. Following my undergraduate studies, I embarked on a Master's program in Aerodynamics. However, in the midst of pursuing my Master's degree, I discovered a compelling interest in the vast and intricate universe of data. This newfound passion prompted me to make a bold decision: I left my Aerodynamics Master's program unfinished to pivot towards Data Science. Currently, I am enriching my knowledge and skills as a Data Science student in the Industrial Department, where I aim to fuse my engineering background with the transformative power of data-driven insights.
+I'm a former Aerospace Engineer turned Data Scientist. My academic, I spent five years deeply engaged in the aerodynamic optimization of aircraft and wind tubine. Following my undergraduate studies, I embarked on a Master's program in Aerodynamics. However, in the midst of pursuing my Master's degree, I discovered a compelling interest in the vast and intricate universe of data. This newfound passion prompted me to make a bold decision: I left my Aerodynamics Master's program unfinished to pivot towards Data Science. Currently, I am enriching my knowledge and skills as a Data Science student in the Industrial Department, where I aim to fuse my engineering background with the transformative power of data-driven insights.
 
 ## 🌌 My Journey
 
