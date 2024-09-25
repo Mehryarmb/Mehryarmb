@@ -12,18 +12,17 @@ I'm a former Aerospace Engineer turned Data Scientist. I spent five years deeply
 ## 💡 Projects
 
 - **[Tehran-House-Value-Estimator]**: A regression project with scrapped data of divar.ir. Tools used: [python].
+-
+
+- **[Machine Learning Classification of the Hepatitis C Virus]**: A calasification project with UCI data repository. algorithms used: [ANN + ML calasic].
+  
+- 
+
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, R
 - **Soft Skills**: Team collaboration, problem-solving, adaptability
-
-## 📈 Goals
-
-- **Short-Term**: To complete my studies with a strong portfolio of projects demonstrating my skills in data analysis, machine learning, and their applications in industrial engineering.
-- **Long-Term**: To contribute to groundbreaking innovations in the intersection of data science and aerospace engineering, driving forward the capabilities of both fields.
-
-## 📫 How to Reach Me
 
 - **LinkedIn**: www.linkedin.com/in/mehryar-mehrabi
 
