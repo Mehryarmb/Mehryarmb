@@ -12,7 +12,8 @@ I'm a former Aerospace Engineer turned Data Scientist. I spent five years deeply
 ## 💡 Projects
 
 - **[Tehran-House-Value-Estimator]**: A regression project with scrapped data of divar.ir. Tools used: [python].
--
+  
+- **[OxfordPet-Classifier-and-Segmentation]**:A deep learning project focused on pet image classification, segmentation, and data augmentation using the Oxford-IIIT Pet Dataset.
 
 - **[Machine Learning Classification of the Hepatitis C Virus]**: A calasification project with UCI data repository. algorithms used: [ANN + ML calasic].
   
