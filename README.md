@@ -27,7 +27,5 @@ I'm a former Aerospace Engineer turned Data Scientist. I spent five years deeply
 
 - **LinkedIn**: www.linkedin.com/in/mehryar-mehrabi
 
-- **Email**: Mehryar.mb@gmail.com
-
 Feel free to reach out if you're interested in collaborating on projects or if you have any questions or advice!
 
